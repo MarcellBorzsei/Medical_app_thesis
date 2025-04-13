@@ -1,0 +1,8 @@
+streamlit~=1.42.0
+requests~=2.32.3
+pillow~=11.1.0
+dicom2jpg~=0.1.10
+Flask~=3.1.0
+bcrypt~=4.3.0
+numpy~=2.0.2
+keras~=3.9.0
